@@ -1,2 +1,3 @@
 # ML_EXAMPLES-TRAIN
-Here you can find classical machine learning scripts
+<PYTHON>
+Here you can find classical machine learning scripts with
